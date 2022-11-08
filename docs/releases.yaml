@@ -1,0 +1,4 @@
+- namespace: kuberhealthy
+  path: helmfiles/kuberhealthy/helmfile.yaml
+- namespace: nginx
+  path: helmfiles/nginx/helmfile.yaml
